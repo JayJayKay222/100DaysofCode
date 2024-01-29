@@ -26,7 +26,7 @@ Remove(initial_set)
 # In[5]:
 
 
-# common elements in a list 
+# get common elements in a list 
 
 def common(list1, list2):
     result = False
